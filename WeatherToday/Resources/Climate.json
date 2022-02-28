@@ -1,0 +1,134 @@
+{
+  "cities": [
+    {
+      "name": "Melbourne", 
+      "country": "Australia", 
+      "lat": -37.815018, 
+      "long": 144.946014, 
+      "temp": 24.03, 
+      "minTemp": 4.9, 
+      "maxTemp": 24.72, 
+      "shortDescription": "Sunny"
+    },
+    {
+      "name": "Sydney",
+      "country": "Australia",
+      "lat": -33.865143,
+      "long": 151.2099,
+      "temp": 41.05,
+      "minTemp": 8.81,
+      "maxTemp": 41.21,
+      "shortDescription": "Drizzle"
+    },
+    {
+      "name": "Tasmania", 
+      "country": "Australia", 
+      "lat": -41.640079, 
+      "long": 146.315918, 
+      "temp": 13.28, 
+      "minTemp": 3.04, 
+      "maxTemp": 13.77, 
+      "shortDescription": "Sunny"
+    }, 
+    {
+      "name": "Adelaide", 
+      "country": "Australia", 
+      "lat": -34.92866, 
+      "long": 138.59863, 
+      "temp": 19.13, 
+      "minTemp": 5.75, 
+      "maxTemp": 35.32, 
+      "shortDescription": "Cloudy"
+    },
+    {
+      "name": "Brisbane",
+      "country": "Australia",
+      "lat": -27.470125,
+      "long": 153.021072,
+      "temp": 21.11,
+      "minTemp": 2.39,
+      "maxTemp": 26.87,
+      "shortDescription": "Sunny"
+    },
+    {
+      "name": "Perth", 
+      "country": "Australia", 
+      "lat": -31.95224, 
+      "long": 115.8614, 
+      "temp": 29.09, 
+      "minTemp": 1.28, 
+      "maxTemp": 29.77, 
+      "shortDescription": "Sunny"
+    }, 
+    {
+      "name": "Darwin", 
+      "country": "Australia", 
+      "lat": -12.46113, 
+      "long": 130.84185, 
+      "temp": 17.87, 
+      "minTemp": 6.37, 
+      "maxTemp": 34.3, 
+      "shortDescription": "Sunny"
+    }, 
+    {
+      "name": "Canberra", 
+      "country": "Australia", 
+      "lat": -35.28346, 
+      "long": 149.12807, 
+      "temp": 33.17, 
+      "minTemp": -2.32, 
+      "maxTemp": 34.77, 
+      "shortDescription": "Cloudy"
+    }, 
+    {
+      "name": "San Francisco", 
+      "country": "United States", 
+      "lat": 37.773972, 
+      "long": -122.431297, 
+      "temp": 20.21, 
+      "minTemp": 3.46, 
+      "maxTemp": 40.5, 
+      "shortDescription": "Overcast"
+    }, 
+    {
+      "name": "New York", 
+      "country": "United States", 
+      "lat": 40.71427, 
+      "long": -74.00597, 
+      "temp": 22.19, 
+      "minTemp": -1.94, 
+      "maxTemp": 28.25, 
+      "shortDescription": "Storms"
+    }, 
+    {
+      "name": "Seattle", 
+      "country": "United States", 
+      "lat": 47.60621, 
+      "long": -122.33207, 
+      "temp": 31.06, 
+      "minTemp": -0.1, 
+      "maxTemp": 39.21, 
+      "shortDescription": "Cloudy"
+    }, 
+    {
+      "name": "London", 
+      "country": "England", 
+      "lat": 51.51279, 
+      "long": -0.09184, 
+      "temp": 30.36, 
+      "minTemp": 13.71, 
+      "maxTemp": 30.97, 
+      "shortDescription": "Sunny"
+    }, 
+    {
+      "name": "Amsterdam", 
+      "country": "Netherlands", 
+      "lat": 52.37403, 
+      "long": 4.88969, 
+      "temp": 19.52, 
+      "minTemp": 5.19, 
+      "maxTemp": 20.59, 
+      "shortDescription": "Overcast"
+    }
+  ]
+}
